@@ -1,0 +1,32 @@
+
+body{
+    background-color: lightblue;
+}
+
+h1{
+    text-align: center;
+}
+.fish_section{
+    display: flex;
+    background-color: #ccc;
+    flex-direction: row;
+    align-content: space-around;
+    align-items: stretch;
+
+}
+div{
+    flex-grow: 2;
+    
+}
+.tips_tricks {
+    width:30%;
+    background-color:green;
+}
+
+.martin_quotes{
+    text-align: center;
+}
+
+.links {
+    text-align: center;
+}
